@@ -1,0 +1,108 @@
+This file contains 6 slides and single jigs (#101 - #106).
+You can find more abc tune files at http://www.norbeck.nu/abc/
+I've transcribed them as I have learnt them, which does not necessarily mean
+that I play them that way nowadays. Many of the tunes include variations and
+different versions. If there is a source (S:) or discography (D:) included the
+version transcribed might still not be exactly as that source played the tune,
+since I might have changed the tune around a bit when I learnt it.
+The tunes were learnt from sessions, from friends or from recordings.
+When I've included discography, it's often just a reference to what recordings
+the tune appears on.
+
+Last updated 22 November 2016.
+
+(c) Copyright 1997-2016 Henrik Norbeck. This file:
+- May be distributed with restrictions below.
+- May not be used for commercial purposes (such as printing a tune book to sell).
+- This file (or parts of it) may not be made available on a web page for
+  download without permission from me.
+- This copyright notice must be kept, except when e-mailing individual tunes.
+- May be printed on paper for personal use.
+- Questions? E-mail: henrik@norbeck.nu
+
+R:slide
+Z:id:hn-%R-%X
+M:6/8
+L:1/8
+
+X:101
+T:no name
+R:slide
+H:Also played in A, #102
+Z:id:hn-slide-101
+M:6/8
+L:1/8
+K:G
+G2E D2E | G2A BAB | d2B A2G | E2A ABA |
+G2E D2E | G2A BAB | d2B ABA |1 G3 G2A :|2 G3 G2g ||
+|: g2f e2d | B2e ege | d2B A2G | E2A ABA |
+[1 g2f e2d | B2e ege | d2B ABA | G3 G2g :|
+[2 G2E D2E | G2A BAB | d2B ABA | G3 G2A ||
+
+X:102
+T:no name
+R:slide
+H:Also played in G, #101
+Z:id:hn-slide-102
+M:6/8
+L:1/8
+K:A
+A2F E2F | A2B cBc | e2c B2A | F2B BcB |
+A2F E2F | A2B cBc | e2c BcB |1 A3 A2B :|2 A3 A2a ||
+|: a2g f2e | c2f faf | e2c B2A | F2B BcB |
+[1 a2g f2e | c2f faf | e2c BcB | A3 A2a :|
+[2 A2F E2F | A2B cBc | e2c BcB | A3 A2B ||
+
+X:103
+T:Gneeveguilla Slide, The
+R:slide
+Z:id:hn-slide-103
+M:6/8
+L:1/8
+K:G
+def |: g2d ded | B2G GFG | ABA DFA | G2B def |
+g2d ded | B2G GFG | ABA DFA |1 G3 G2d :|2 G3 G2B ||
+|: ~d3 e2d | b3 bag | aba e2f | gag edB |
+~d3 e2d | b3 bag | a2g e2f |1 g3 g2e :|2 g2d ||
+
+X:104
+T:Torn Petticoat, The
+R:slide
+H:See also reel #294, #570
+Z:id:hn-slide-104
+M:6/8
+L:1/8
+K:Ador
+e2d | c2A BAG | A2G E2D | EFG A2B | c2d e2d |
+c2A BAG | A2G E2D | EFG A2B | A3 :| A2B ||
+|: c2d e2f | g2e d2g | e2a a2e | g2e d2B |
+[1 c2d e2f | g2e d2g | e2a a2g | a3 A2B :|
+[2 c2A BAG | A2G E2D | EFG A2B | A3 ||
+
+X:105
+T:Joe Cooley's Delight
+R:slide
+H:See also #17
+Z:id:hn-slide-105
+M:6/8
+L:1/8
+K:D
+d2d dcd | e2E EFG | ~A3 ABG | F2D DFA |
+d2d dcd | e2E EFG | ABA GFE |1 D3 DFA :|2 D3 D2e ||
+|: f2d Ade | faa agf | g2e Bcd | e2f gfe |
+f2d Ade | faa agf | gec Ace |1 d3 d2e :|2 d2e f2e ||
+
+X:106
+T:Farewell to Lissycasey
+T:Paddy Breen's
+R:single jig
+D:Michael Tubridy: The Eagle's Whistle
+Z:id:hn-slide-106
+M:6/8
+L:1/8
+K:G
+G2B G2B | G2B ded | BAB E2D | FAG FED |
+G2B G2B | G2B ded | BAB E2D | FAF G3 :| 
+|: GBd ~g3 | f2e e2d | e2d e2f | e2d BAB | 
+GBd g2g | f2e e2d | BAB E2D | FAF G3 :|  
+

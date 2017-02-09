@@ -1,0 +1,528 @@
+This file contains 34 marches (#1 - #34).
+You can find more abc tune files at http://www.norbeck.nu/abc/
+I've transcribed them as I have learnt them, which does not necessarily mean
+that I play them that way nowadays. Many of the tunes include variations and
+different versions. If there is a source (S:) or discography (D:) included the
+version transcribed might still not be exactly as that source played the tune,
+since I might have changed the tune around a bit when I learnt it.
+The tunes were learnt from sessions, from friends or from recordings.
+When I've included discography, it's often just a reference to what recordings
+the tune appears on.
+
+Last updated 21 August 2016.
+
+(c) Copyright 1997-2016 Henrik Norbeck. This file:
+- May be distributed freely (with restrictions below).
+- May not be used for commercial purposes (such as printing a tune book to sell).
+- This file (or parts of it) may not be made available on a web page for
+  download without permission from me.
+- This copyright notice must be kept, except when e-mailing individual tunes.
+- May be printed on paper for personal use.
+- Questions? E-mail: henrik@norbeck.nu
+
+Z:id:hn-march-%X
+R:march
+
+X:1
+T:O'Donnell's March
+T:MacDonnell's March
+R:march
+H:Cf. Allistrum's March, #19
+B:Bunting 1840
+Z:id:hn-march-1
+M:6/8
+K:D
+FEE FDD|FEd dBA|FEE FDD|FEd B2A:|
+|:B2A B2F|B2A B2E|B2A BFF|B2A B2E:|
+|:Bdd cee|Bdd dBA|Bdd cee|Bdd B2A:|
+|:B2A B2F|B2A B2E|B2A B2F|B2A B2E:|
+
+X:2
+T:Garryowen
+R:march
+H:General Custer's Favourite tune...
+H:Also played in G
+Z:id:hn-march-2
+M:6/8
+K:D
+dc|BAG FED|FGF Fdc|BAG FED|EFE Edc|
+BAG FED|FGF F2A|ABc dFF|FEE E:|
+|:FG|A2F A2F|A2F Adc|B2G B2G|B2G B2c|
+d2e f2e|dcB A2A|ABc dFF|FEE E:|
+
+X:3
+T:Saint Patrick's Day
+R:march
+H:see also set dance #12
+Z:id:hn-march-3
+M:6/8
+K:G
+~G3 GBd|gfe dBG|cBc AFD|EFE E2D|~G3 GBd|
+gfe dBG|1 cBc AFD|E2F G2D:|2 cde dBG|E2F G2B||
+|:def gag|fed e2B|def gag|fed e2B|def gbg|
+fed efg|GAG GBd|gfe dBG|cBc AFD|EFG AFD|
+GAG GBd|gfe dBG|cde dBG|1 E2F G2B:|2 E2F G2D||
+
+X:4
+T:Brian Boru's March
+R:march
+Z:id:hn-march-4
+M:6/8
+K:Ador
+ed|:cBA Aed|cBA Adc|BAG Gdc|BAG Ged|
+cBA Aed|cBA A2G|Acd e2d|1 cAA Aed:|2 cAA A2G||
+|:Acd e2d|e2d edc|GBc d2g|d2g dBG|
+Acd e2d|e2d edc|Acd e2d|1 cAA A2G:|2 cAA A2B||
+|:cBA aAA|cBA aAA|BAG gGG|BAG gGG|
+cBA aAA|cBA aAA|Acd e2d|1 cAA A2B:|2 cAA A2||
+
+X:5
+T:O'Neill's March
+R:march
+D:Chieftains Live
+Z:id:hn-march-5
+M:2/4
+L:1/8
+K:Edor
+Bg fa|eg g/f/e/d/|Bg fa|eg g/f/e/d/:|
+|:ed/e/ f/e/d/B/|ed/e/ f/e/d/B/:|
+|:A>B G>B|Ae e/d/B/G/|A>B G>B|1 Ae e/d/B/G/:|2 Ae e/d/B/A/||
+
+X:6
+T:Green Cockade, The
+T:O'Neill's March
+R:march
+D:Paddy Keenan: Port an Phiobaire
+D:Chieftains Live
+Z:id:hn-march-6
+M:2/4
+L:1/8
+K:Ador
+eA AB/d/ | e/g/e/d/ Bd | eA A/c/B/A/ | GG/A/ B/G/B/d/ |
+eA AB/d/ | e/g/e/d/ Bd | e/d/e/f/ gB | A2 A2 :|
+|: ea ag/a/ | bb/a/ gg/f/ | e/d/B/d/ gg/e/ | d/c/B/A/ G/A/B/G/ |
+ea ag/a/ | bb/a/ gg/e/ | dB gB | A2 A2 :|
+P:variations
+|: eA AB/d/ | e/f/e/d/ B/A/B/d/ | eA AB/A/ | G>A Bd |
+eA AB/d/ | ee/d/ B/A/B/d/ | e/d/e/f/ gB | BA A2 :|
+|: ea ag/a/ | bb/a/ gg/f/ | e/d/B/d/ gB | d/c/B/A/ G/A/B/d/ |
+ea ag/a/ | bb/a/ gg/f/ | e/d/B/d/ gB | BA A2 :|
+
+X:7
+T:Battle of Aughrim, The
+R:march
+Z:id:hn-march-7
+M:2/4
+L:1/8
+K:Ador
+|:EA AB/d/|ed cA|BG G/F/G/A/|B/G/A/G/ ED|
+EA AB/d/|ee/d/ ea/g/|ed B/e/d/B/|A2 A2:|
+|:a/b/a/g/ ef/g/|a/b/a/g/ ef/g/|aa/f/ gg/e/|dB G2|
+a/b/a/g/ ef/g/|a/b/a/g/ ee/d/|Be dB|A2 A2:|
+P:variations
+|:EA A/B/c/d/|ed cA|BG G/F/G/A/|BG ED|
+EA A/B/c/d/|ee/d/ ea/g/|a/g/e/d/ B/e/d/B/|A2 A2:|
+|:a>g ef/g/|a/b/a/g/ ef/g/|af ge|d/e/d/B/ Ga|
+a>g ef/g/|a/b/a/g/ ed|Be dB|A2 A2:|
+P:version 2
+|:EA AB/d/|ed/B/ c>A|BG G>A|BA/G/ ED|
+EA AB/d/|ed e/a/a/g/|e/g/e/d/ B/A/G/B/|A2 A2:|
+|:ae ef/g/|a/b/a/g/ ef/g/|a/b/a/f/ ge|d/e/d/B/ Gf/g/|
+ae ef/g/|a/b/a/g/ e>d|Be dB|A2 A2:|
+
+X:8
+T:Lord Mayo
+T:Tiarna Mhaigh Eo
+R:march
+C:David Murphy (Daithi O Murchu) or Thady Keenan (Thady \'O Cian\'ain)
+H:David Murphy was harper to Lord Mayo
+Z:id:hn-march-8
+M:2/4
+L:1/8
+K:Ador
+AG AB|e2 e/d/B/d/|eA AB/A/|G/A/G/F/ ED|
+AG AB|e2 g>f|ee dB/G/|1 A2 AE:|2 A2 A2||
+|:a2 g/e/g/a/|b2 b/a/g|ed d/e/g|G>A GE|
+[1 a2 g/e/g/a/|b2 d'/b/a/g/|ed d/e/g|a2 ae:|
+[2 A/G/A/B/ dB|AG g>e|dd B/d/B/G/|A2 AE||
+
+X:9
+T:Return from Fingal, The
+R:march
+H:This tune is supposed to have been played by Brian Boru's troops on the
+H:return from the Battle of Clontarf.
+Z:id:hn-march-9
+M:2/4
+L:1/8
+K:Edor
+B/A/G/F/ E/F/G/A/|B/A/G/F/ E>B|A/G/F/A/ dA|BA B/c/d|
+B/A/G/F/ E/F/G/A/|B/A/G/F/ E>B|A/G/F/A/ dA|FE E2:|
+|:fe ed/c/|BA d>A|BA dA|BA B/c/d/e/|
+fe ed/c/|BA d>B|A/G/F/A/ dA|FE E2:|
+P:version 2
+|:BG/F/ E/F/G/A/|BG/F/ E2|A/G/F/A/ dA|BA B/c/d/e/|
+BG/F/ E/F/G/A/|BG/F/ E2|A/G/F/A/ dA/B/|FE E2:|
+|:fe ed/c/|BA d>A|BA d>A|BA B/c/d/e/|
+fe ed/c/|BA d>B|A/G/F/A/ dA/B/|FE E2:|
+
+X:10
+T:Chanter's Song, The
+T:Chanter's Tune, The
+T:Song of the Chanter, The
+R:march
+H:Also played in Amix, #15
+Z:id:hn-march-10
+M:2/4
+L:1/8
+K:Dmix
+DD AG/E/|DD cB/c/|dA AG/E/|cB/c/ AG/E/|
+DD AG/E/|DD cB/c/|dA AG/E/|D2 D2:|
+|:A>B cB/c/|A/G/A/B/ cB/c/|dA AG/E/|cB/c/ AG/E/|
+DD AG/E/|DD cB/c/|dA AG/E/|D2 D2:|
+
+X:11
+T:Halting march, The
+R:march
+Z:hn-march-11
+M:2/4
+L:1/8
+K:Ador
+A2 B/c/d|e e2 d|e>d ef|ec A2|G2 A/B/c|d d2 e|dB GB|d2 cB|
+A2 B/c/d|e e2 d|e>d ef|ec A2|a g2 e|d c2 B|A>B AG|1 A3G:|2 A3e||
+a a2 g|e d2 e|g>a ge|dB G2|a a2 g|e d2 e|g>a ge|g2 a/g/e/g/|
+a a2 g|e d2 e|g>a ge|dB G2|A>B cd|e>d cB|A>B cd|e2 e2|
+a a2 g|e d2 e|g>a ge|dB G2|A>B cd|e>d cB|A>B AG|A3G||
+
+X:12
+T:Crucaharan Cross
+R:march
+D:De Danann: Selected Jigs, Reels & Songs
+Z:id:hn-march-12
+M:2/4
+L:1/8
+K:G
+B/A/|:Gd Bd|G>G Ge|dB B/A/G/A/|BA AB/A/|
+Gd Bd|G>G Ge|dB A/B/A|1 G2 GB/A/:|2 G2 Gd||
+|:e>d e/f/g|G2 Ge|dB B/A/G/A/|BA AB/A/|
+Gd Bd|G>G Ge|dB A/B/A|1 G2 Gd:|2 G2 G||
+
+X:13
+T:Boys of Belfast, The
+R:march
+D:Cran:
+Z:id:hn-march-13
+M:C|
+K:Amix
+A3B c2d2|efgf e2ed|c2A2 A2Bc|dedB G2E2|
+A2AB c2d2|efgf e2ed|c2A2 dBGB|1 A4 A2E2:|2 A4 A4||
+|:e2ed e2f2|d2dc d2ed|c2A2 A2Bc|dedB G2E2|
+AGAB c2d2|efgf e2ed|c2A2 dBGB|1 A4 A4:|2 A4 A2E2||
+
+X:14
+T:March of the Kings of Laois
+T:Rory of the Hills
+R:march
+C:Rory O'Moore (17th century)
+Z:id:hn-march-14
+M:6/8
+K:Dmix
+A2F A2D|A2F A2D|B2G A2F|G2F E>FG|
+A2F A2D|A2F A2d|B2d A>dG|F>dF E2D|F>ED G>FE|
+A3 A>GF|E>cG E>CE|G>cG E>CE|D>ED D>ED|D>ED D3:|
+|:B2G d2G|B>AG d2G|A2d A2F|A2d A>dA|
+B2d d>BA|G>FG E>FG|F>ED G>AB|A3 AGF|
+E>cG E>CE|G>cG E>CE|D>ED D>ED|D>ED D3:|
+
+X:15
+T:Chanter's Song, The
+T:Chanter's Tune, The
+T:Song of the Chanter, The
+R:march
+H:Also played in Dmix, #10
+Z:id:hn-march-15
+M:2/4
+L:1/8
+K:Amix
+AA ed/B/|AA gf/g/|ae ed/B/|gf/g/ ed/B/|
+AA ed/B/|AA gf/g/|ae ed/B/|A2 A2:|
+|:e>f gf/g/|e/d/e/f/ gf/g/|ae ed/B/|gf/g/ ed/B/|
+AA ed/B/|AA gf/g/|ae ed/B/|A2 A2:|
+
+X:16
+T:Eagle's Whistle, The
+R:march
+Z:id:hn-march-16
+M:2/4
+L:1/16
+K:G
+GA | B2B>B dBAG | B2B>B dBAG | B2A2 A2Bd | B2A2 A2GA |
+B2B>B dBAG | B2B>B dBAd | A2G2 G2Bd | A2G2 G2Bd ||
+g2d>d edBd | g2d>d edBG | B2A2 A2Bd | B2A2 A2Bd |
+g2d>d edBd | g2d>d edBd | A2G2 G2Bd | A2G2 G2ed ||
+
+X:17
+T:Rosc Catha Na Mumhan
+T:Battle Cry Of Munster, The
+R:march
+Z:id:hn-march-17
+M:2/4
+L:1/16
+K:Ador
+d2 | e>def g2ge | d>cBA G2AB | cd/c/BA edcB | A>BAG E3d |
+e>def g2ge | d>cBA G2AB | cd/c/BA edcB | A>BAG A2 :|
+|: ag | ea2a agab | a>bag e2ed | ea2a agab | a>bag e2ef |
+g>fga g2ge | d>cBA G2AB | cd/c/BA edcB | A>BAG A2 :|
+
+X:18
+T:Behind the Ditch in Pairc Anna
+R:march
+H:with some variations. Also played as a hornpipe
+Z:id:hn-march-18
+M:C|
+L:1/8
+K:Amix
+EAAB c2d2 | eged Bcd2 | eAA=c BAGB | AGEF GED2 |
+EAAB c2d2 | eged Bcdf | e2A=c BAGB | A2AG A4 :|
+|: eaag egdg | eaag egd2 | eAA=c BAGB | AGEF GED2 |
+[1 eaag egdg | eaag egd2 | eAA=c BAGB | A2AG A4 :|
+[2 EAAB c2d2 | efed B2d2 | e2A2 BAdB | A2AB A4 ||
+
+X:19
+T:Allistrum's March
+T:Alaisdrum's March
+R:march
+H:Cf. Allistrum's Polka, polka#120
+H:Cf. O'Donnell's March, #1
+H:Cf. #26, #27, #28
+D:Chieftains
+Z:id:hn-march-19
+M:6/8
+L:1/8
+K:D
+Fdd fee | fdB BAG | Fdd fee | fdB B2A :| 
+|: FEE FDD | FEd dBA | FEE FDD | FEd B2A :| 
+|: d2f e2f | ded dBA | d2f e2f | ded dBA :| 
+|: B2A B2F | B2A BEE | B2A B2F |1 B2A BEE :|2 B2A BAG || 
+P:variation of 1st part
+|: Fdd fee | fdd dBA | Fdd fee | fdB B2A :| 
+
+X:20
+T:O'Sullivan's March
+R:march
+Z:id:hn-march-20
+M:6/8
+L:1/8
+K:G
+GBA ABd | edB A2D | GBA B2G | AGG GED |
+GBA ABd | edB A2D | GBA B2G |1 AGG G2D :|2 AGG G2g ||
+|: e2g e2g | ege edB | ded dBd | egB BAG |
+cBc dcd | e/f/gB A2D | GBA B2G |1 AGG G2g :|2 AGG G2D ||
+
+X:21
+T:Leslie's March
+T:Highland March from Oscar and Malvina
+R:march
+C:William Reeve (1757-1815)
+Z:id:hn-march-21
+M:6/8
+L:1/8
+K:D
+|: ~d3 ~d3 | dcB ABc | dcB AGF | G2F E2D | 
+~e3 ede | fed eag | fef d2A | def e3 :| 
+|: fed eAA | fed eAA | gfe fBB | gfe fBB | 
+fed eAA | fed eag | fef d2A | def e3 :| 
+|: dfa dfa | dfa afd | egb egb | egb bge | 
+dfa dfa | dfa a2g | fef d2A | def e3 :| 
+
+X:22
+T:Old Grey Cat, The
+R:march
+H:See also "Smuggler's Reel" reel#711
+Z:id:hn-march-22
+M:2/4
+L:1/8
+K:Edor
+ee E>F | G/F/G/A/ B/A/B/c/ | dd D>E | F/A/d/B/ A/F/E/D/ |
+ee E>F | G/F/G/A/ B/A/B/c/ | d/c/B/A/ B/A/G/F/ |1 E2 E>B :|2 E2 E>A ||
+|: Be e>d | B/d/e/f/ g/f/e/d/ | Ad d>B | A/B/d/e/ f/e/d/f/ |
+eB gB | aB b>a | g/f/e/d/ B/A/B/d/ | e2e2 :|
+
+X:23
+T:Rose In The Gap, The
+R:march
+Z:id:hn-march-23
+M:C|
+L:1/8
+K:Edor
+B3c B2AF | B2E2 E2 (3FGA | B3c B2AF | A2D2 D2FA |
+B3c B2AF | AFAB d3e | fedc (3Bcd AF |1 A2D2 D2FA :|2 A2D2 D2de ||
+|: fedc (3Bcd AF | B2E2 E2de | fedc (3Bcd AF | A2D2 D2de |
+fedc (3Bcd AF | AFAB d2de | fedc (3Bcd AF |1 A2D2 D2de :|2 A2D2 D2B2 ||
+|: e3g f2 (3efg | f2e2 e2B2 | eBeg f2 (3efg | f2d2 d2B2 |
+eBeg f2ec | dcde f3e | fedc (3Bcd AF |1 A2D2 D2B2 :|2 A2D2 D2FA ||
+
+X:24
+T:Napoleon Crossing The Alps
+R:march
+D:Harry Bradley: As I Carelessly Did Stray
+Z:id:hn-march-24
+M:2/4
+L:1/8
+K:Amix
+EF/G/ |: A2 A2 | A/B/A/G/ ED | BdeB| d2 ef/g/ |
+a>g e/g/e/d/ | BA GE |1 G2 G>A | G2 EF/G/ :|2 A2 A2 | A2 ef/g/ ||
+|: a>g e/g/e/d/ | Bd ef | g>a ge | g2 ef/g/ |
+a>g e/g/e/d/ | BA GE |1 G>A GE | G2 ef/g/ :|2 A2 A2 | A2 ||
+
+X:25
+T:Grainne's Welcome Home
+R:march
+H:See also jig#450 and reel#953
+Z:id:hn-march-25
+M:C|
+L:1/8
+K:Amix
+e3d c2A2 | e2A2 Bcd2 | e3d c2A2 | d2G2 Bcd2 |
+e3d c2A2 | e2A2 B3A | G2Bd gfge |1 d2G2 Bcdf :|2 d2G2 Bcde ||
+|: c2ce agfa | e2A2 Bcde | c2ce gfec | d2G2 Bcde |
+c2ce agfa | gfeg f2fe | d2ef gage |1 d2G2 Bcde :|2 d2G2 Bcdf || 
+
+X:26
+T:Allistrum's March
+R:march
+H:See also #19, #27, #28
+D:Niall & Cillian Vallely: Callan Bridge
+Z:id:hn-march-26
+M:6/8
+L:1/8
+K:G
+egg eaa | egg ged | egg eaa | bag e2d :|
+|: BAA BGG | BAg ged | BAA BGG | BAg e2d :|
+
+X:27
+T:Allistrum's March
+R:march
+H:See also #19, #26, #28
+D:Niall & Cillian Vallely: Callan Bridge
+Z:id:hn-march-27
+M:6/8
+L:1/8
+K:Amix
+Ecc edd | fdd cAG | Ecc edd | fdc A2G :|
+|: FGE FDD | Ddc AGE | FGE FDD | Ddc A2G :|
+
+X:28
+T:Alasdruim's March
+T:M\'airse\'ail Alasdruim
+R:march
+H:See also #19, #26, #27
+D:Sean Keane: Jig It in Style
+D:P\'adraig Rynne: Bye a While
+Z:id:hn-march-28
+M:6/8
+L:1/8
+K:G
+ABG AGF | G2g fdc | ABG AGF | Ggf d2c |
+ABG AGF | G2g fdc | A~B2 cBc | dgf d2c :|
+|: Aff agg | age fdc | Aff agg | agf d2c |
+Aff agg | bag fde | fef gfg | a2g fdc :|
+P:variations
+|: BAG AGF | G2g fdc | BAG AGF | Ggf d2c |
+BAG AGF | G2g fdc | BAB cBc | Ggf d2c :|
+|: Aff agg | agf dec | Aff agg | agf d2c |
+Aff agg | bag fde | f2d gfg | agf d2c :| 
+
+X:29
+T:Banks of the Quay, The
+R:march
+D:De Danann: Selected Jigs, Reels & Songs
+Z:id:hn-march-29
+M:2/4
+L:1/8
+K:G
+DG BB/B/ | cA B2 | BA/G/ FG | AG FE |
+DG BB/B/ | cA B2 | BA/G/ FG |1 AG GF/E/ :|2 AG GB/c/ ||
+d2 d>d | ed d>B | AG FG | AG GB/c/ |
+d2 d>d | ed d>B | AG FG | AG GB/c/ |
+d2 d>d | ed d>B | AG FG | AG FE ||
+
+X:30
+T:Parnell's March
+R:march
+Z:id:hn-march-30
+M:6/8
+L:1/8
+K:G
+d2c | BGD BGD | d3 d2c | BGD BGD | ded d2c |
+BcB GBd | edc BAG | ABA ded | ~A3 d2c |
+BGD BGD | ded d2B | c2B c2e | ~g3 gfe |
+d2B GAB | c2A F2G | ~A3 AGF | G3 :|
+|: g2f | e3 c2G | c2e gfe | ~d3 ded | B3 B2c | 
+d3 d^cd | ed=c BAG | ABA ded | A2d d2c | 
+BGD BGD | ded dcB | c2B c2e | ~g3 gfe | 
+d2B GAB | c2A F2G | ABA AGF | G3 :| 
+
+X:31
+T:White Cockade, The
+T:Highland Laddie
+R:march
+Z:id:hn-march-31
+M:2/4
+L:1/8
+K:G
+G/A/ | BB c/B/A/G/ | BB Bg/e/ | dB c/B/A/G/ | BA AG/A/ |
+BB c/B/A/G/ | Bd g>a | b/a/g/f/ e/f/g/e/ | dB B :|
+|: B/c/ | dB gd | dB BB/c/ | dB gf/g/ | aA AG/A/ |
+BB c/B/A/G/ | Bd g>a | b/a/g/f/ e/f/g/e/ | dB B :|
+P:variations
+|: G/A/ | BB/d/ c/B/A/G/ | BB Bg/e/ | dB c/B/A/G/ | BA AG/A/ |
+B/A/B/d/ c/B/A/G/ | Bd gg/a/ | b/a/g/f/ a/g/f/e/ | dB B :|
+|: B/c/ | dB gB/c/ | d/^c/d/e/ dB/c/ | dB gf/g/ | aA AG/A/ |
+B/A/B/d/ c/B/A/G/ | Bd gg/a/ | b/a/g/f/ a/g/f/e/ | dB B :|
+
+X:32
+T:Lillibullero
+T:Lilibullero
+T:Lilli Bullero
+T:Lilly Bolero
+T:Lily Bolero
+R:march
+Z:id:hn-march-32
+M:6/8
+L:1/8
+K:G
+GAG B2B | ABA c3 | BdG c2B |1 AGF G2D :|2 AGF G3 ||
+|: g2f g2d | de=f e2d | def gde | dcB A2d |
+edc Bcd | edc Bcd | e/f/gG c2B |1 AGF G3 :|2 AGF G2D ||
+
+X:33
+T:Mummer's March
+R:march
+H:On the L\'a Lugh recording it is played very slowly, and the E in bars
+H:2 and 4 is held longer, and also the A3 and F3 in bars 6, 8, 10 and 14
+D:L\'a Lugh
+Z:id:hn-march-33
+M:6/8
+L:1/8
+K:Em
+G2B A2B | G2B F2E | G2B A2c | BGE F2E ||
+BGE EDE | BGE A3 | BGE EDE | cBA F3 ||
+EGB e2B | cBA F3 | EGB e2B | cBA Bcd | e2^c d2B | =cBA F3 ||
+
+X:34
+T:Fingal's Cave
+T:Fingal's Weeping
+T:Cuilfhionn
+R:march
+S:Sally Simpson
+H:Scottish
+Z:id:hn-march-34
+M:C|
+L:1/8
+K:Ador
+E<G | A2A2 B>AG<A | B2A2 A2e>d | B2A>G e2d<B | d2G2 G2E<G |
+A2A2 B>AG<A | B2A2 A2e>d | B2A>G e2d<B | e2A2 A2 :|
+|: B<d | e2d<e g2e<g | a2e<a g3f | e2d<e g2f>g |1 e>dB>A G>AB<d |
+e2d<e g2e<g | a2e<a g3f | g>ef>d g>ed<B | e2A2 A2 :|
+[2 e>dB<A G>AB<G | c2B<c d2c<d | e2d<e a3f | g>ef>d g>ed<B | e2A2 A2 ||
+

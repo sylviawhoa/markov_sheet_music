@@ -1,0 +1,406 @@
+This file contains 29 polkas (#101 - #129).
+You can find more abc tune files at http://www.norbeck.nu/abc/
+I've transcribed them as I have learnt them, which does not necessarily mean
+that I play them that way nowadays. Many of the tunes include variations and
+different versions. If there is a source (S:) or discography (D:) included the
+version transcribed might still not be exactly as that source played the tune,
+since I might have changed the tune around a bit when I learnt it.
+The tunes were learnt from sessions, from friends or from recordings.
+When I've included discography, it's often just a reference to what recordings
+the tune appears on.
+
+Last updated 3 November 2016.
+
+(c) Copyright 1997-2016 Henrik Norbeck. This file:
+- May be distributed with restrictions below.
+- May not be used for commercial purposes (such as printing a tune book to sell).
+- This file (or parts of it) may not be made available on a web page for
+  download without permission from me.
+- This copyright notice must be kept, except when e-mailing individual tunes.
+- May be printed on paper for personal use.
+- Questions? E-mail: henrik@norbeck.nu
+
+R:polka
+Z:id:hn-%R-%X
+M:2/4
+L:1/8
+
+X:101
+T:Shelf #1, The
+R:polka
+D:Skylark: Raining Bicycles
+Z:id:hn-polka-101
+M:2/4
+L:1/8
+K:D
+(3A/B/c/|df Aa|Ad' Aa|A/c/e/c/ A/c/e/g/|fd d/c/B/c/|
+df Aa|Ad' Aa|A/c/e/c/ A/c/e/g/|fd d:|
+|:e|f2 f>e|fa a/g/f|g2 g>a|b/a/g/f/ ag|
+f>e ff/g/|a/g/f/a/ g (3e/f/g/|ad f/e/d/c/|ed d:|
+|:(3a/b/c'/|d'f a/f/d|cB B>d|cA B/c/d/e/|df a (3d/f/a/|
+d'f a/f/d|cB B>d|cA B/c/d/e/|fd d:|
+|:z|A/B/c/d/ e/f/g/a/|ba/^g/ a2|A/B/c/d/ e/f/g|a/f/d a/f/d|
+A/B/c/d/ e/f/g/a/|ba/^g/ a2|A/B/c/d/ e/f/g/e/|fd d:|
+
+X:102
+T:Shelf #2, The
+R:polka
+D:Skylark: Raining Bicycles
+Z:id:hn-polka-102
+M:2/4
+L:1/8
+K:G
+B/A/|:GD/G/ BG/B/|d/c/B/d/ g>B|dc cA|ed B/c/B/A/|
+GD/G/ BG/B/|d/c/B/d/ g>B|dc cA|1 AG GB/A/:|2 AG G>B||
+|:dc cA|ed B>c|dc cA|ed B/c/B/A/|
+GD/G/ BG/B/|d/c/B/d/ g>B|dc cA|1 AG G>B:|2 AG G||
+
+X:104
+T:Babes in the Wood
+T:Captain Maguire
+R:polka
+H:See also #18
+Z:id:hn-polka-104
+M:2/4
+L:1/8
+K:D
+A/B/A/G/ FA|de f2|ga/g/ fe|df a2|A/B/A/G/ FA|de f2|ga/g/ fe|d2 d2:|
+|:e>f ed|ce a2|e>f ef|ge c/B/A|e>f ed|ce a>f|ed cB|A2 A2:|
+
+X:105
+T:O'Sullivan's Fancy
+R:polka
+Z:id:hn-polka-105
+M:2/4
+L:1/8
+K:D
+AD FG|A>G AB|=cA GA/G/|EF GF/G/|AD FG|A>G AB|=cA GE|ED D2:|
+|:Ad de|f2 ed|^cA AB|^cd ec|Ad de|f2 ed|^cA GE|ED D2:|
+
+X:106
+T:Banks of Inverness, The
+T:Salmon tails up the water
+R:polka
+H:Also played in A with four parts, see #5
+H:Originally a march called "The Banks of Inverness" in Scotland and
+H:"Salmon Tails Up the Water" in Northumbria.
+Z:id:hn-polka-106
+M:2/4
+L:1/8
+K:G
+D>E DB,|DE G>A|Bd AB/A/|GE cE|D>E DB,|DE G>A|Bd AB/A/|1 G2 GE:|2 G2 GA||
+Bd dB|ce ed|Bd AB/A/|GE cE|Bd dB|ce ef|ge f/e/d|e2 ef|
+ge f/e/d|e/f/e/d/ BA|Bd AB/A/|GE cE|D>E DB,|DE G>A|Bd AB/A/|G2 GE||
+
+X:107
+T:Tripping to the Well
+T:John McKenna's
+R:polka
+H:Also played in G, see #72
+D:John McKenna & Eddie Meehan 1937 (Decca)
+D:Begley & Cooney: Meitheal
+Z:id:hn-polka-107
+M:2/4
+L:1/8
+K:A
+A>B cA|FA FE|A>B ce|cB Bc|A>B cA|FA FE|cA E/F/G/A/|1 BA AE:|2 BA A>c||
+|:ec A>B|cA FE|ec A>B|cB Bc|ec A>B|cA FE|cA E/F/G/A/|1 BA A>c:|2 BA AE||
+
+X:108
+T:Kerry Cow, The
+R:polka
+H:See also #23
+D:Sean Ryan: Siuil Uait
+Z:id:hn-polka-108
+M:2/4
+L:1/8
+K:D
+A>B AF|Ad cA|G>A GE|FG AF|A>B AF|Ad c>B|AF GE|D2 D2:|
+|:d>e fd|cA A~A|BG G~G|BA AF|d/c/d/e/ fd|cA AF|GB AF|1 D2 D2:|2 DE FG||
+
+X:109
+T:Spailpin Fanach, The
+R:polka
+H:Same tune as reel #682 (The West Cork Reel)
+Z:id:hn-polka-109
+M:2/4
+L:1/8
+K:D
+D/E/F/G/ AB | =cA AG | Ad d^c | d2 d>e |
+fd ed | cA AB | cA GE |1 D2 D2 :|2 D2 D>e ||
+fd ed | cA A>e | fd ec | d2 d>e |
+fd ed | cA AB | cA GE | D2 D>e |
+fd ed | cA A>e | fd ef | g2 a>g |
+fd ed | cA AB | cA GE | D2 D2 ||
+P:variations
+|: D/E/F/G/ AB | ^cA AG | Ad d^c | d2 d>e |
+fd ed | cA AB | =cA GE |1 D2 D2 :|2 D2 d>e ||
+|: fd ed | cA A>e | fd ef | g2 a>g |
+fd ed | cA AB |1 =cA GE | D2 d>e :|2 =cA GE | D2 D2 ||
+
+X:110
+T:no name
+R:polka
+S:Brendan Begley
+Z:id:hn-polka-110
+M:2/4
+L:1/8
+K:Edor
+BE FE|BE FE|D>E FA|DE FA|BE FE|BE FE|D>F AD|FE E2:|
+|:Be ed/e/|fe dA|Be ed/e/|fe d2|Be ed/e/|fe dA|BA dF|FE E2:|
+
+X:111
+T:Rattling Bog, The
+R:polka
+H:Also in G, #113
+D:Martin O'Connor: The Connachtman's Rambles
+Z:id:hn-polka-111
+M:2/4
+L:1/8
+K:A
+c2 c>B|AF FE|FB Bc/B/|AF FE|c2 c>B|AF FE|FA Bc/B/|A2 AB:|
+|:cB BA|cB BA|B2 Bc/B/|AF FE|cB BA|cB BA|B2 Bc/B/|A2 AB:|
+
+X:112
+T:Din Tarrant's
+T:Jim Keefe's
+R:polka
+Z:id:hn-polka-112
+M:2/4
+L:1/8
+K:G
+G>G GA|B2 BA|GB dB|AG ED|G>G GA|B2 Bd|e/f/g fg|1 BG GD:|2 BG G2||
+|:Bd de/f/|gf ed|Bd de/f/|gB A2|Bd de/f/|gf ed|B/c/d Bd|1 BG G2:|2 BG GD||
+P:variation of 1st part
+|:G2 G>A|BA Bd|GB dB|AG ED|G2 GA|BA Bd|e/f/g fg|BG G2:|
+
+X:113
+T:Rattling Bog, The
+R:polka
+H:Also in A, #111
+D:Martin O'Connor: The Connachtman's Rambles
+Z:id:hn-polka-113
+M:2/4
+L:1/8
+K:G
+B2 B>A|GE ED|EA AB/A/|GE ED|B2 B>A|GE ED|EG AB/A/|G2 GA:|
+|:BA AG|BA AG|A2 AB/A/|GE ED|BA AG|BA AG|A2 AB/A/|G2 GA:|
+
+X:114
+T:McElroy's Fancy
+T:Pat Hogan's Two
+R:polka
+H:A version of #7
+D:Martin O'Connor: The Connachtman's Rambles
+Z:id:hn-polka-114
+M:2/4
+L:1/8
+K:Edor
+B>c BA|FA D2|B>c BA|Be ed|B>c BA|FA D>E|FD AF|E2 E2:|
+|:Be ed/e/|fe dA|Be ed/e/|fe d2|Be ed/e/|fe dB|AF dF|FE E2:|
+
+X:115
+T:Allistrum's Polka
+R:polka
+H:Also in D #120
+H:Cf. first two parts of Allistrum's March, march#19
+D:Martin O'Connor: The Connachtman's Rambles
+Z:id:hn-polka-115
+M:2/4
+L:1/8
+K:G
+BA A>A|BG G>G|BA g>a|ge ed|BA A>A|BG G>G|BA gg|e2 ed:|
+|:Bg g>a|ba ab|g2 g>a|ge ed|Bg g>a|ba ab|ga/g/ fd|e2 ed:|
+
+X:116
+T:Riding on a Load of Hay
+R:polka
+Z:id:hn-polka-116
+M:2/4
+L:1/8
+K:Edor
+E>F GA | Be ef/e/ | dB AG | FD DF |
+E>F GA | Be e>f | g/f/e B^d |1 e2 e2 :|2 e2 e>f ||
+|: ge fd | eB B>c | dB AG |1 FD D>f | ge fd | eB B>c | dB AF | E2 E>f :|
+[2 FD D>F | EG FA | GB e>f | ge B^d | e2 e2 ||
+
+X:117
+T:Many a Wild Night
+R:polka
+S:Matt Cranitch & Donal Murphy
+F:http://www.youtube.com/watch?v=7VGwMnppEOQ
+Z:id:hn-polka-117
+M:2/4
+L:1/8
+K:D
+Ad dB | AF FD | GB BA | F/G/A D>F | Ad dB | AF FD | GB BA | D2 D>F :|
+|: Ad fa | ge e>c | Ac e/f/g | fd d/e/d/B/ | Ad fa | ge e>d | ce ba | d2 d>B :|
+
+X:118
+T:Walshe's Polka
+R:polka
+S:Matt Cranitch & Donal Murphy
+H:Also played in A with parts in reverse order, #56
+F:http://www.youtube.com/watch?v=7VGwMnppEOQ
+Z:id:hn-polka-118
+M:2/4
+L:1/8
+K:G
+|: g2 gf/g/ | ag ge | dB BA | GA Bd | g2 gf/g/ | ag ge | dB BA |1 G2 G2 :|2 G2 D2 ||
+|: G>A BA | GE ED | B,D ED | B,D ED | G>A BA | GE ED | B,D ED |1 G2 GD :|2 G2 G2 || 
+
+X:119
+T:Magic Slipper, The
+R:polka
+H:Often followed by "The Little Diamond" #76
+D:James Morrison and Tom Carmody 1936
+Z:id:hn-polka-119
+M:2/4
+L:1/8
+K:D
+Af Af | ed A2 | B/c/d ef | ag g2 | Bg Bg | gf A>f | ed cB | Aa a2 :|
+|: DF/A/ d>d | cB B/A/B | E/F/G/A/ B>c | BA A/G/A |
+DF/A/ d>d | cB B/A/B | g/f/e Bc | ed d2 :|
+
+X:120
+T:Allistrum's Polka
+R:polka
+H:Also in G #115
+H:Cf. first two parts of Allistrum's March, march#19
+D:M\'airt\'in O Connor: Connachtman's Rambles
+Z:id:hn-polka-120
+M:2/4
+L:1/8
+K:D
+FE E>E | FD D>E | FE d>e | dB BA |
+FE E>E | FD D>D | FE dd | B2 BA :|
+|: Fd d>e | fe ef/e/ | d2 d>e | dB BA |
+Fd d>e | fe ef | de/d/ cA | B2 BA :|
+
+X:121
+T:Tom Barrett's
+R:polka
+Z:id:hn-polka-121
+M:2/4
+L:1/8
+K:Ador
+A2 eA | eA eg/e/ | dB gB | dB gB |
+A2 eA | eA eg/e/ | dB gB | BA A2 :|
+|: ag eg | ag eg/e/ | dB gB | dB g2 |
+ag eg | ag eg/e/ | dB gB | BA A2 :|
+
+X:122
+T:Downey's
+R:polka
+H:Cf #65
+Z:id:hn-polka-122
+M:2/4
+L:1/8
+K:Edor
+E2 FA | Be ed | Bd/B/ AF | EF D2 |
+E>E FA | Be ed | Bd/B/ AF | FE E2 :|
+|: Be ef | af ed | Be ef | af d2 | 
+Be ef | af ed | Bd/B/ AF | FE E2 :|
+
+X:123
+T:no name
+R:polka
+Z:id:hn-polka-123
+M:2/4
+L:1/8
+K:A
+f | ec BA/B/ | cA FA/F/ | EA BA/B/ | cB Bf |
+ec BA/B/ | cA FA/F/ | EA BA/B/ |1 cA A :|2 cA A>B ||
+|: ce a>a | ce f>f | ec BA/B/ | cB B2 |
+ce a>a | ce f>f | ec BA/B/ |1 cA A>B :|2 cA A ||
+
+X:124
+T:Mimi and the New Generation
+R:polka
+S:Jennikel Andersson
+Z:id:hn-polka-124
+M:2/4
+L:1/8
+K:Edor
+E/F/G/A/ Be | df B2 | g>f ef | B2 B2 |
+b>a fe | f/g/a Be | dB AF |1 E2 B2 :|2 E2 E2 ||
+|: b>a fe | f/g/a B2 | b>a fe | a2 a2 |
+b>a fe | f/g/a Be | dB AF |1 E2 E2 :|2 E2 B2 ||
+
+X:125
+T:Leather Away The Wattle-O
+T:Leather Away with the Wattle
+T:Half Door, The
+R:polka
+Z:id:hn-polka-125
+M:2/4
+L:1/8
+K:D
+dA FA | d>c df | ed cd | ef gf/g/ |
+af ge | dc AF | GB A/B/A/G/ | FD D2 :|
+|: f>f fd | g>g ge | f>f fa | gf ef/g/ |
+af ge | dc AF | GB A/B/A/G/ | FD D2 :|
+P:variations
+|: dA FA | d>c dc/d/ | ed cd | ef ge |
+a/g/f ge | dc AF | GB A/B/A/G/ | FD D2 :|
+|: f2 fd | g2 ge | f2 fa | gf ef/g/ |
+af ge | dc AF | GB A/B/A/G/ | FD D2 :|
+
+X:126
+T:Ballinafad Polka, The
+T:McDonagh's
+R:polka
+Z:id:hn-polka-126
+M:2/4
+L:1/8
+K:G
+B2 B/c/B/A/ | BG G>B | AG FG | AB cA |
+B2 B/c/B/A/ | BG G>B | AG FE | D3 B/c/ |
+dg d>B | cA A>c | BG EF | GF ED |
+B2 B/c/B/A/ | BG G>B | AG FA | G2 Gg/a/ |
+|: b2 b/a/g/f/ | g3 d | f2 f/e/d/B/ | c3 d/c/ |
+BG gd | cA B/c/d | e2 f2 |1 g2 ga :|2 g2 d>c ||
+P:variations:
+B/c/B/A/ B/c/B/A/ | BG G>B | AG FG | AB cd |
+B/c/B/A/ B/c/B/A/ | BG G>B | AG FE | D3 B/c/ |
+de d>B | cA Ad/c/ | BG EF | GF ED |
+B/c/B/A/ B/c/B/A/ | BG GE | DG F/A/G/F/ | G2 Gg/a/ |
+|: b2 b/a/g/f/ | g3 d | f2 f/e/d/B/ | c3 d/c/ |
+BG gd | cA B/c/d | e2 f2 |1 g2 ga :|2 g3 d/c/ ||
+
+X:127
+T:Dan Sullivan's
+R:polka
+H:Also played in Emix, #128
+Z:id:hn-polka-127
+M:2/4
+L:1/8
+K:Amix
+A>B cd | ed ea | ge de/d/ | cA GE | A>B cd | ed ea | ge de/d/ | cA A2 :|
+|: ab/a/ ge | dB gb | aA AB/c/ | dB GE | A>B cd | ed ea | ge de/d/ | cA A2 :|
+
+X:128
+T:Dan Sullivan's
+R:polka
+H:Also played in Amix, #127
+Z:id:hn-polka-128
+M:2/4
+L:1/8
+K:Emix
+E>F GA | BA Be | dB AB/A/ | GE DB, | E>F GA | BA Be | dB AB/A/ | GE E2 :|
+|: ef/e/ dB | AF df | eE EF/G/ | AF DB, | E>F GA | BA Be | dB AB/A/ | GE E2 :|
+
+X:129
+T:Neili
+T:Neil\'i
+T:O Neil\'i
+T:Nelly
+R:polka
+Z:id:hn-polka-129
+M:2/4
+L:1/8
+K:D
+ed cA | ed cA | Ac ef | ge d2 | ed cA | ed cA | Ac ef | ge d2 :|
+|: ef ge | ed cd | ef ge | eA d2 | ef ge | ed cA | Ac ef | ge d2 :|
+|: f2 fg | ed cA | f2 fg | eA d2 | f2 fg | ed cA | Ac ef | ge d2 :| 
+
